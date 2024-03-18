@@ -1,0 +1,129 @@
+@media only screen and ( max-width:768px){
+
+
+
+    header{
+        padding: 0 0;
+    }
+    .nav{
+        justify-content: center;
+        align-items: center;
+    }
+    .navbar{
+        margin-top: 17px;
+    }
+
+.head{
+    padding-left: 0;
+    padding:  0 20px;
+}
+    .nav h1{ 
+        font-size: 40px;
+    }
+    .head-left-cntnt span{
+        font-size: 20px;
+    }
+    #navicon{
+        display: block;
+        color: black;
+    }
+    .nav ul li{
+        display: none;
+    }
+
+    .head-2{
+        display: none;
+    }
+    .sec-2 .main-choose .writen{
+        width: 100%;
+    }
+
+    .main-choose .img-div{
+        display: none;
+    }
+    .main-choose{
+        display: flex;
+        justify-content: center;
+        padding: 0px 20px;
+    }
+    .ani-1 input{
+        
+        margin-top: 0;
+    }
+    .card-child{
+       background: #fff;
+       flex-direction: column;
+    }
+    .card-1{
+        width: 100%;
+        border-right: 1px solid #e2dddd;
+        background: #8b62f4;
+        margin-bottom: 10px;
+    }
+
+    .inner{
+        gap: 5px;
+    }
+    .card-1 img{
+       padding: 0;
+    }
+
+
+
+    .inner-2 ,.inner-3 , .inner-4 , .inner-5 , .inner-6 , .inner-7 , .inner-8 , .inner-8 , .inner-9{
+        width: 40%;
+    }
+
+
+    .sec-2 .main-choose .writen .div-write-1 .sub-1 p {
+        width: auto;
+        height:auto ;
+
+    }
+    .graphic{
+        height: auto;
+    }
+    .graphic img{
+        width: 20%;
+    }
+
+
+    .sec-4 .main-sec-4 .first-sec-4 {
+        display: none;
+    }
+
+    .sec-4 .main-sec-4 .second-sec-4 {
+        width: 100%;
+        padding-left: 40px;
+}
+
+
+.custom-form {
+    width: auto;
+    margin-right: 0;
+}
+.chitru{
+    display: none;
+}
+
+.ms-exel{
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer-sec{
+    flex-direction: column;
+    height: auto;
+    
+}
+.content-0 {  
+    flex-direction: column;
+    gap: 10px;
+    margin: 10px 10px;
+}
+
+.tgc{
+    width: 50%;
+    margin-right: 0;
+}
+}
